@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "BitwardenCommandExtension (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "BitwardenCommandExtension (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
